@@ -2,7 +2,7 @@
 
 Senior full stack engineer and technical lead in Vancouver, BC. Eighteen years of building things other people end up depending on, mostly in TypeScript, React and Node, more recently in NestJS and on Kubernetes.
 
-The full story lives at **[george-veras.github.io](https://george-veras.github.io/)**: work history, the numbers behind it, and resumes in English, French and Portuguese.
+The full story lives at **[george-veras.github.io](https://george-veras.github.io/?utm_source=github&utm_medium=profile)**: work history, the numbers behind it, and resumes in English, French and Portuguese.
 
 ### The work people ask about
 
@@ -18,7 +18,7 @@ Getting LLM agents into production rather than into demos. I was the first on my
 
 ### Elsewhere
 
-- Portfolio and resume: [george-veras.github.io](https://george-veras.github.io/)
+- Portfolio and resume: [george-veras.github.io](https://george-veras.github.io/?utm_source=github&utm_medium=profile)
 - LinkedIn: [linkedin.com/in/george-veras](https://www.linkedin.com/in/george-veras/)
 - Email: george.veras.valentim@gmail.com
 
